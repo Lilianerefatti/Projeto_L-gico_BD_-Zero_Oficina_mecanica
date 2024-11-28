@@ -1,0 +1,25 @@
+
+Aqui está um resumo do que foi feito neste projeto:
+
+1.	Criação do banco de dados: Um banco de dados de uma oficina mecânica foi configurado, com tabelas para clientes, veículos, serviços, ordens de serviço, mecânicos, mão de obra, pagamentos, entre outras.
+
+Tabelas: 
+Clientes - Armazena informações sobre os clientes da oficina.
+Veículos - Armazena as informações dos veículos dos clientes.
+Mecânicos - Armazena informações sobre os mecânicos que trabalham na oficina.
+Serviços - Armazena os serviços oferecidos pela oficina (ex: troca de óleo, alinhamento, etc.).
+Ordem de Serviço (OS) - Armazena as ordens de serviço abertas para os veículos.
+Mão de Obra (Manutenção) - Armazena os tipos de manutenção ou serviços realizados pelos mecânicos.
+Pagamentos - Armazena os pagamentos realizados pelas ordens de serviço.
+Itens da Ordem de Serviço - Armazena os itens (peças, materiais) utilizados durante a execução dos serviços na ordem de serviço.
+
+2.	Inserção de dados: Foram inseridos dados fictícios para as tabelas criadas, como informações de clientes, veículos, mecânicos, serviços, etc.
+
+3.	Consulta SQL: Foram elaboradas várias consultas SQL para analisar dados, incluindo:
+SELECT para recuperar dados.
+WHERE para filtrar dados.
+JOIN para combinar informações de tabelas diferentes.
+ORDER BY para ordenar resultados.
+HAVING para aplicar filtros em grupos de dados.
+ 
+4.	Erros e ajustes: Alguns erros de SQL ocorreram, como problemas com nomes de tabelas e colunas, os quais foram investigados e corrigidos com base nas mensagens de erro.
